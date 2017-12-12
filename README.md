@@ -22,12 +22,12 @@ Para saber mais sobre o funcionamento do script e suas funcionalidades, [leia a 
 2 - Com o terminal aberto digite: dpkg -i knifesystem.deb
 ```
 ```
-3- feito isso ele deve começar a instação
+3- feito isso ele deve começar a instalação
 ```
 
 Em breve vídeo demostrativo...
 
-## Teste executados com sucesso nos seguites sistemas
+## Teste executados 
 
 * [Cyborg Hawk](https://cyborg.ztrela.com)
 * [Ubuntu 14.04](http://releases.ubuntu.com/14.04)
